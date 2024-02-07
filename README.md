@@ -1,12 +1,13 @@
 <div align="center">Hello, I'm Gavin Poley</div>
 
 # 💫 About Me:
-I am a new graduate from UCSC with a Bachelors in Computer Science, with a passion to learning more about programming such as with full stack web development, machine learning, and much more!
+I am a new graduate from UCSC with a Bachelors in Computer Science, with a passion to learning more about programming such as with full stack web development, machine learning, parallel programming, and much more!
 
 ## What I'm Up To:
 
 * Learning about Machine Learning via Kaggle
 * Dabbling into Cloud topics
+* Working on projects with new technologies and APIs
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-poley/) 
